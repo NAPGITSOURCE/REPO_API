@@ -1,0 +1,32 @@
+﻿[
+ {
+   "cityCode":"2643741","cityName":"City of London"
+ },
+ {
+   "cityCode":"2988507","cityName":"Paris"
+ },
+ {
+   "cityCode":"2964574","cityName":"Dublin"
+ },
+ {
+  "cityCode":"4229546","cityName":"Washington"
+ },
+ {
+   "cityCode":"5128581","cityName":"New York"
+ },
+ {
+  "cityCode":"1273294","cityName":"Delhi"
+ },
+ {
+  "cityCode":"1275339","cityName":"Mumbai"
+ },
+ {
+   "cityCode":"6539761","cityName":"Rome"
+ },
+ {
+   "cityCode":"2950159","cityName":"Berlin"
+ },
+ {
+   "cityCode":"292223","cityName":"Dubai"
+ }
+]
